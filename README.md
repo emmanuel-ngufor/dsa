@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Data Structures & Algorithms
 
 
@@ -6,7 +5,7 @@
 
 | Topic | Description | Playlist | Code | 
 | ----- | ----------- | -------- | -----|
-| CS Tutorials | All of my computer science tutorials in one playlist. | [Playlist](https://www.youtube.com/playlist?list=PL9xmBV_5YoZPKwb4XPB1sG7S6kNpN9JJo) | [Code](https://github.com/msambol/dsa) |
+| CS Tutorials | All CS tutorials in one playlist from MSAMBOL. | [Playlist](https://www.youtube.com/playlist?list=PL9xmBV_5YoZPKwb4XPB1sG7S6kNpN9JJo) | [Code](https://github.com/msambol/dsa) |
 | Analyzing Algorithms | Time complexity of algorithms including 𝚯, O, and 𝛀. | [Playlist](https://www.youtube.com/playlist?list=PL9xmBV_5YoZMxejjIyFHWa-4nKg6sdoIv) | [Code](https://github.com/msambol/dsa/tree/master/analyzing_algorithms) |
 | Data Structures | The building blocks! | [Playlist](https://www.youtube.com/playlist?list=PL9xmBV_5YoZO2D89q42-y8voxIJKpB4oR) | [Code](https://github.com/msambol/dsa/tree/master/data_structures) |
 | Minimum Spanning Trees | Greedy algorithms for finding a minimum spanning tree in a weighted, undirected graph. Prim's = pick a node. Kruskal's = iterate through edges. | [Playlist](https://www.youtube.com/playlist?list=PL9xmBV_5YoZObEi3Hf6lmyW-CBfs7nkOV) | [Code](https://github.com/msambol/dsa/tree/master/minimum_spanning_trees) | 
