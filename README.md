@@ -1,6 +1,7 @@
 # Data Structures & Algorithms
 
-Acknowledgments
+## Acknowledgments
+
 This project is inspired by and built upon the work of Michael Sambol (https://github.com/msambol). 
 His original repository provided the foundation and guidance for developing this project. 
 Special thanks to him for his valuable contributions and insights.
